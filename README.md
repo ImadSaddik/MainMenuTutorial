@@ -4,6 +4,7 @@ Safety First is a VR project designed to educate individuals about workplace saf
 
 ## Overview
 
+![Cover image](https://github.com/ImadSaddik/SafetyFirstMainMenuUI/blob/main/cover/ui_final.jpg?raw=true)
 This repository focuses on a specific part of the overall project—the UI. We've created a detailed video showcasing the development process of the game's main menu. [Check out the video here](https://www.youtube.com/watch?v=icl0tNQJRF0&t "YouTube video").
 
 ## Features
