@@ -772,7 +772,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 129512195}
-        m_TargetAssemblyTypeName: MoveToScene, Assembly-CSharp
+        m_TargetAssemblyTypeName: SwitchBetweenScenes, Assembly-CSharp
         m_MethodName: OpenFireScene
         m_Mode: 1
         m_Arguments:
@@ -850,7 +850,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 129512189}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 045f66bb13dc6494688999113ef4d3ca, type: 3}
+  m_Script: {fileID: 11500000, guid: e90b8d0c188fb1c418e74bc76a16a38e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &133294949
@@ -1942,7 +1942,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 616775644}
-        m_TargetAssemblyTypeName: MoveToScene, Assembly-CSharp
+        m_TargetAssemblyTypeName: SwitchBetweenScenes, Assembly-CSharp
         m_MethodName: OpenPPEScene
         m_Mode: 1
         m_Arguments:
@@ -2020,7 +2020,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 616775638}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 045f66bb13dc6494688999113ef4d3ca, type: 3}
+  m_Script: {fileID: 11500000, guid: e90b8d0c188fb1c418e74bc76a16a38e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &617413897
